@@ -7,7 +7,6 @@ Software Engineer
 I am currently a computer science student in my first year. I have been learning development before starting college for the last six months. I started out doing frontend, but would like to move into backend and become a full-stack developer.
 
 * 🌍  I'm based in Texas.
-* ✉️  You can contact me at [jmichell2003@gmail.com](mailto:jmichell2003@gmail.com)
 * 🧠  I'm learning Full-Stack Development.
 * 🤝  I'm open to collaborating on anything that will help increase my knowledge.
 * ⚡  I do not like black coffee
