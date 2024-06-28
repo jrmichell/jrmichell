@@ -4,8 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-I am currently a computer science student in my first year. I have been learning development before starting college for the last six months. I started out doing frontend, but would like to move into backend and become a full-stack developer.
-
 * 🌍  I'm based in Texas.
 * 🧠  I know a bit about Frontend Development, but would preferably like to learn more about Backend and DevOps.
 * 🤝  I'm open to collaborating on anything that will help increase my knowledge.
