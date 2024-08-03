@@ -7,7 +7,7 @@ Software Engineer
 * 🌍  I'm based in Texas.
 * 🧠  I know a bit about Frontend Development, but would preferably like to learn more about Backend and DevOps.
 * 🤝  I'm open to collaborating on anything that will help increase my knowledge.
-* ⚡  I do not like black coffee
+* ⚡  I do not like black coffee.
 
 ### Socials
 
