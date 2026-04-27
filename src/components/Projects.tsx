@@ -8,25 +8,25 @@ interface Project {
 
 const projects: Project[] = [
   {
-    name: 'Switcheroo',
+    name: "Switcheroo",
     description:
-      'A GUI file converter for converting between CSV and JSON, with data validation utilities including duplicate removal, whitespace trimming, and nested JSON flattening.',
-    tags: ['C++', 'CMake'],
-    github: 'https://github.com/jrmichell/Switcheroo',
+      "A GUI file converter for converting between CSV and JSON, with data validation utilities including duplicate removal, whitespace trimming, and nested JSON flattening.",
+    tags: ["C++", "CMake"],
+    github: "https://github.com/jrmichell/Switcheroo",
   },
   {
-    name: 'SecretsManager',
+    name: "SecretsManager",
     description:
-      'A GUI password manager with a built-in password generator, clipboard integration, and show/hide toggle for stored credentials. Supports optional website and username fields.',
-    tags: ['Python', 'tkinter'],
-    github: 'https://github.com/jrmichell/SecretsManager',
+      "A GUI password manager with a built-in password generator, clipboard integration, and show/hide toggle for stored credentials. Supports optional website and username fields.",
+    tags: ["Python", "tkinter"],
+    github: "https://github.com/jrmichell/SecretsManager",
   },
   {
-    name: 'dsa-proj',
+    name: "dsa-proj",
     description:
-      'A collaborative Data Structures and Algorithms project built with a small team, working with real city datasets to implement and demonstrate core DSA concepts.',
-    tags: ['Python'],
-    github: 'https://github.com/jrmichell/dsa-proj',
+      "A collaborative Data Structures and Algorithms project built with a small team, working with real city datasets to implement and demonstrate core DSA concepts.",
+    tags: ["Python"],
+    github: "https://github.com/jrmichell/dsa-proj",
   },
 ];
 
